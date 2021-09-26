@@ -1,6 +1,6 @@
 ---
-published: false
+published: true
 ---
 ## Congratulations!
 
-This is my first real post. 
+This is my first real post.
