@@ -19,7 +19,7 @@ I am interested in history, computer science and science fiction.
 
 I am a big fan of writting, a way to record my thoughts and communicate with the world.
 
-This blog will include my dairy, class note, book response, news critics, and other wirtings.  
+This blog will include my dairy, class note, reading responses, news critics, and other wirtings.  
 
 Please feel free to contact me and I am looking forward to it. 
 
