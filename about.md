@@ -35,6 +35,14 @@ Please feel free to contact me and I am looking forward to it.
 
 我会在这里发布日记，读书笔记，所思所想，还有课堂作业，例如这学期的新闻评论课。
 
+### 日本語の自己紹介
+
+初めまして。私はヘレンです。
+
+趣味はゲームをすることや、日本のアニメを見ることなど、色々あります。特にバレーボールが大好きです。
+
+どうぞよろしくお願いします！
+
 ### Contact me
 
 [hsong@gm.slc.edu](mailto:hsong@gm.slc.edu)
