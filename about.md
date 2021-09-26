@@ -5,11 +5,13 @@ permalink: /about/
 published: true
 ---
 
-Some information about you!
+Some information about me!
 
-### More Information
+### Introduction
 
-A place to include any other types of information that you'd like to include about yourself.
+Whoever is reading this, hi there!
+I am Hailun Song, a graduate student in CUC, Beijing, China. 
+I am interested in history, computer science and science fiction. 
 
 ### Contact me
 
