@@ -11,7 +11,7 @@ Some information about me.
 
 Whoever is reading this, hi there!
 
-I am Hailun Song, a graduate student in CUC, Beijing, China. My major is oral history, Communication Study.
+I am Hailun, a graduate student in CUC, Beijing, China. My major is oral history, Communication Study.
 
 I am interested in history, computer science and science fiction. 
 
