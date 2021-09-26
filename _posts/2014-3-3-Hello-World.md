@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome!
+title: My First Blog Post
 published: true
 ---
 
