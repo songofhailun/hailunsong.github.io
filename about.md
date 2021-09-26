@@ -11,7 +11,7 @@ Some information about me.
 
 Whoever is reading this, hi there!
 
-I am Hailun, a graduate student in CUC, Beijing, China. My major is oral history, Communication Study.
+I am Hailun, a graduate student in CUC, Beijing, China.
 
 I am interested in history, computer science and science fiction. 
 
@@ -27,7 +27,7 @@ Please feel free to contact me and I am looking forward to it.
 
 你好呀！
 
-我的名字叫做海伦，现就读于中国传媒大学，传播学专业口述史方向，目前是研究生第一年。
+我的名字叫做海伦，现就读于中国传媒大学。
 
 开学之际，终于完成了自己的一个小目标，拥有一个属于我自己的博客网站。
 
