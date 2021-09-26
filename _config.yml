@@ -18,7 +18,7 @@ avatar: https://avatars.githubusercontent.com/u/91193676?s=400&u=da2b129e74db014
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email:hsong@gm.slc.edu
   facebook:
   flickr:
   github: songofhailun
@@ -34,7 +34,7 @@ footer-links:
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus:
+disqus:https-songofhailun-github-io
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
