@@ -15,8 +15,6 @@ I am Hailun, a graduate student in CUC, Beijing, China.
 
 I am interested in history, computer science and science fiction. 
 
-### Purpose
-
 I am a big fan of writting, a way to record my thoughts and communicate with the world.
 
 This blog will include my dairy, class note, reading responses, news critics, and other wirtings.  
