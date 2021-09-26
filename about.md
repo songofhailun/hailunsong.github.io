@@ -7,7 +7,7 @@ published: true
 
 Some information about me.
 
-### Introduction
+### Self-Introduction in English
 
 Whoever is reading this, hi there!
 
@@ -19,9 +19,21 @@ I am interested in history, computer science and science fiction.
 
 I am a big fan of writting, a way to record my thoughts and communicate with the world.
 
-This blog will include my dairy, class note, book response and critics, and other wirtings.  
+This blog will include my dairy, class note, book response, news critics, and other wirtings.  
 
 Please feel free to contact me and I am looking forward to it. 
+
+### 中文自我介绍
+
+你好呀！
+
+我的名字叫做海伦，现就读于中国传媒大学，传播学专业口述史方向，目前是研究生第一年。
+
+开学之际，终于完成了自己的一个小目标，拥有一个属于我自己的博客网站。
+
+写作对于我来说，是保留自我核心的一个方式。尽管写得不算太好，写作是我坚持了接近十年的习惯，非常希望自己能够一直坚持下去。
+
+我会在这里发布日记，读书笔记，所思所想，还有课堂作业，例如这学期的新闻评论课。
 
 ### Contact me
 
