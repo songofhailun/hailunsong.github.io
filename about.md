@@ -35,7 +35,7 @@ Please feel free to contact me and I am looking forward to it.
 
 ### 日本語の自己紹介
 
-初めまして。私はヘレンです。
+初めまして、ヘレンと申します。
 
 趣味はゲームをすることや、日本のアニメを見ることなど、色々あります。特にバレーボールが大好きです。
 
