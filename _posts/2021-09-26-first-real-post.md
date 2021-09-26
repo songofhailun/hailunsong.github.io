@@ -1,6 +1,6 @@
 ---
 published: false
 ---
-## A New Post
+## Congratulations!
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+This is my first real post. 
