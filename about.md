@@ -13,7 +13,7 @@ Whoever is reading this, hi there!
 
 I am Hailun, a graduate student in CUC, Beijing, China.
 
-I am interested in history, computer science and science fiction. 
+I am interested in history, computer science， science fiction and volleyball. 
 
 I am a big fan of writting, a way to record my thoughts and communicate with the world.
 
