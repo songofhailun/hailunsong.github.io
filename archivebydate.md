@@ -24,7 +24,7 @@ sitemap: false
     {% if forloop.index != 1 %}</ul>{% endif %}
         <h2>{{ post.date | date: '%B %Y' }}</h2><ul>
     {% endif %}
-
+<div>
 
     {% if post.link %}
         <h3 class="link-post">
@@ -35,4 +35,3 @@ sitemap: false
         <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
     {% endif %}
     {% endfor %}
-</div>
