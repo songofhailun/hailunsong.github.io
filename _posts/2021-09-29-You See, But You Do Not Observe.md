@@ -1,5 +1,6 @@
 ---
-published: false
+published: true
+category: essays
 ---
 ## 你只是在看，而不是在观察。
 
