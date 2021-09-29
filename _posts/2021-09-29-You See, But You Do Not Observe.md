@@ -1,6 +1,6 @@
 ---
 published: true
-category: essays
+categories: essays
 ---
 ## 你只是在看，而不是在观察。
 
