@@ -35,4 +35,5 @@ sitemap: false
         <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
     {% endif %}
     {% endfor %}
+    
 </div>
