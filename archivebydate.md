@@ -36,4 +36,3 @@ sitemap: false
     {% endif %}
     {% endfor %}
     
-</div>
