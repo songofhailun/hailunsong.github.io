@@ -4,7 +4,7 @@ categories: essays
 ---
 ## 你只是在看，而不是在观察。
 
-![福尔摩斯在思考]({{site.baseurl}}/https://cdn.hk01.com/di/media/images/3008961/org/c1cdab191cdd9d1b0855540952c534df.jpg/rLlpadGervx0-NmULU0K-o81uveRbwJGzuFJW87hSVs?v=w1920r16_9)
+![福尔摩斯在思考](https://cdn.hk01.com/di/media/images/3008961/org/c1cdab191cdd9d1b0855540952c534df.jpg/rLlpadGervx0-NmULU0K-o81uveRbwJGzuFJW87hSVs?v=w1920r16_9)
 
 在《波西米亚丑闻》里，福尔摩斯对华生说道，“You see, but you do not observe.” 你只是在看，而不是在观察。
 
