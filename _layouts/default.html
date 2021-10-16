@@ -33,12 +33,14 @@
             
           </nav>
           
-          <p>
-            Tagged 
-              {% for tag in page.tags %}
-              <a class="post" href="/tag/{{tag}}">#{{tag}}</a>{% unless forloop.last %}, {% endunless %}
+          <h1>Tag: #{{page.tag}}</h1>
+          <ul>
+             {% for post in site.posts %}
+             {% if post.tags contains page.tag %}
+              <li><a class="post" href="{{ post.url }}">{{ post.title }}</a></li>
+             {% endif %}
              {% endfor %}
-         </p>
+          </ul>
           
         </header>
              <div class="container" >
