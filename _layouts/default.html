@@ -33,14 +33,6 @@
             
           </nav>
           
-          <h1>Tag: #{{page.tag}}</h1>
-          <ul>
-             {% for post in site.posts %}
-             {% if post.tags contains page.tag %}
-              <li><a class="post" href="{{ post.url }}">{{ post.title }}</a></li>
-             {% endif %}
-             {% endfor %}
-          </ul>
           
         </header>
              <div class="container" >
@@ -68,5 +60,14 @@
     </div>
 
     {% include analytics.html %}
+    
+      <h1>Tag: #{{page.tag}}</h1>
+      <ul>
+         {% for post in site.posts %}
+         {% if post.tags contains page.tag %}
+         <li><a class="post" href="{{ post.url }}">{{ post.title }}</a></li>
+         {% endif %}
+         {% endfor %}
+      </ul>    
   </body>
 </html>
